@@ -1,7 +1,7 @@
 # Android-Instagram-SSL-Pinning-Bypass
-Bypass Instagram SSL pinning on Android devices. Latest version Instagram v354.2.0.47.100
+Bypass Instagram SSL pinning on Android devices. Latest version Instagram v358.0.0.51.97
 
-Latest version: `v354.2.0.47.100`
+Latest version: `v358.0.0.51.97`
 
 Contact us for the latest version.
 Always active and up-to-date SSL pinning bypass service.
