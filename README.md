@@ -10,4 +10,4 @@ You need another app ssl pinning bypass ios, android anything contact me.
 
 contact telegram: [@derdomerdo](https://t.me/derdomerdo)
 
-![Instagram Android APK SSL Bypass](https://raw.githubusercontent.com/merdw/Android-Instagram-SSL-Pinning-Bypass/refs/heads/main/insta360.png)
+![Instagram Android APK SSL Bypass](https://raw.githubusercontent.com/merdw/Android-Instagram-SSL-Pinning-Bypass/refs/heads/main/Insta360.png)
